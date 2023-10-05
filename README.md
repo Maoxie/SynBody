@@ -1,7 +1,7 @@
 # SynBody
 
-Project page: [SynBody](https://maoxie.github.io/SynBody/#/)
+Thanks for your attention!
 
-Paper is released at [arxiv](https://arxiv.org/pdf/2303.17368.pdf)
+The project has been moved to [SynBody](https://github.com/SynBody/SynBody).
 
-Codes & details will be released soon.
+The codes, toolchain & dataset could be found on the [project page](https://synbody.github.io/).
